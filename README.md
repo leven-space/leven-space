@@ -1,5 +1,4 @@
-
-Here are some ideas to get you started:
+### Hi there 👋
 
 - 🔭 I’m currently working on spring cloud
 - 🌱 I’m currently learning redis
